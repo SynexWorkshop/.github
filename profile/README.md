@@ -90,7 +90,7 @@ Every star, fork, and contribution helps.
 
 ## 📜 License
 
-All Synex Workshops projects will haves pecific licenses will be listed per repository.
+All Synex Workshops projects will have specific licenses, which will be listed per repository.
 
 ---
 

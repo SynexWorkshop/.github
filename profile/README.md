@@ -41,8 +41,7 @@ Our primary focus project. More details will be announced soon.
 
 > Utility library – Development beginning soon.
 
-A clean, structured API utility library designed to simplify integration and development workflows.
-
+A clean, API wrapper designed to create clients for Minecraft AND EaglerCraft.
 ---
 
 ### 🔮 More TBA

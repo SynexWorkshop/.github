@@ -29,11 +29,11 @@ Just well-built tools released for everyone.
 
 We’re seeking developers.
 
-### 🛠 Flagship Project
+### 🛠 Synex Hybrid
 
-> Coming soon...
+> Synex Hybrid is a modded client for EaglerForge 1.8
 
-Our primary focus project. More details will be announced soon.
+Our primary focus project.
 
 ---
 
